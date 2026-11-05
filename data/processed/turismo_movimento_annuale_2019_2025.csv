@@ -1,0 +1,386 @@
+﻿Anno,Territorio,Codice territorio,Codice tipologia,Tipologia,Arrivi,Presenze,Permanenza media,Discontinuita 2025
+2019,Liguria,ITC3,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,476138,1395004,2.93,False
+2019,Liguria,ITC3,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,1717395,5436855,3.17,False
+2019,Liguria,ITC3,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",1182916,2747089,2.32,False
+2019,Liguria,ITC3,ALL,Totale esercizi ricettivi,4797820,15074888,3.14,False
+2019,Liguria,ITC3,BNB,Bed and breakfast,121183,271863,2.24,False
+2019,Liguria,ITC3,CAMP_VILL,Campeggi e villaggi turistici,454226,2370244,5.22,False
+2019,Liguria,ITC3,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),602679,1859442,3.09,False
+2019,Liguria,ITC3,FARMHOUSES,Agriturismi,84266,319968,3.8,False
+2019,Liguria,ITC3,HOTELLIKE,Esercizi alberghieri,3376449,9578948,2.84,False
+2019,Liguria,ITC3,OTHER,Esercizi extra-alberghieri,1421371,5495940,3.87,False
+2019,Liguria,ITC3,OTHERACC,Altri esercizi ricettivi,159017,674423,4.24,False
+2020,Liguria,ITC3,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,260196,844601,3.25,False
+2020,Liguria,ITC3,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,861190,2896298,3.36,False
+2020,Liguria,ITC3,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",520240,1304954,2.51,False
+2020,Liguria,ITC3,ALL,Totale esercizi ricettivi,2392444,8568423,3.58,False
+2020,Liguria,ITC3,BNB,Bed and breakfast,54514,138069,2.53,False
+2020,Liguria,ITC3,CAMP_VILL,Campeggi e villaggi turistici,298402,1731187,5.8,False
+2020,Liguria,ITC3,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),295849,1125438,3.8,False
+2020,Liguria,ITC3,FARMHOUSES,Agriturismi,48211,215301,4.47,False
+2020,Liguria,ITC3,HOTELLIKE,Esercizi alberghieri,1641626,5045853,3.07,False
+2020,Liguria,ITC3,OTHER,Esercizi extra-alberghieri,750818,3522570,4.69,False
+2020,Liguria,ITC3,OTHERACC,Altri esercizi ricettivi,53842,312575,5.81,False
+2021,Liguria,ITC3,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,351811,1057659,3.01,False
+2021,Liguria,ITC3,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,1175355,3863713,3.29,False
+2021,Liguria,ITC3,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",827079,2016326,2.44,False
+2021,Liguria,ITC3,ALL,Totale esercizi ricettivi,3494333,11791468,3.37,False
+2021,Liguria,ITC3,BNB,Bed and breakfast,82206,200490,2.44,False
+2021,Liguria,ITC3,CAMP_VILL,Campeggi e villaggi turistici,445456,2344287,5.26,False
+2021,Liguria,ITC3,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),460778,1598261,3.47,False
+2021,Liguria,ITC3,FARMHOUSES,Agriturismi,71834,311555,4.34,False
+2021,Liguria,ITC3,HOTELLIKE,Esercizi alberghieri,2354245,6937698,2.95,False
+2021,Liguria,ITC3,OTHER,Esercizi extra-alberghieri,1140088,4853770,4.26,False
+2021,Liguria,ITC3,OTHERACC,Altri esercizi ricettivi,79814,399177,5.0,False
+2022,Liguria,ITC3,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,473450,1361072,2.87,False
+2022,Liguria,ITC3,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,1574358,4912458,3.12,False
+2022,Liguria,ITC3,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",1205765,2887630,2.39,False
+2022,Liguria,ITC3,ALL,Totale esercizi ricettivi,4874399,15469705,3.17,False
+2022,Liguria,ITC3,BNB,Bed and breakfast,113668,268763,2.36,False
+2022,Liguria,ITC3,CAMP_VILL,Campeggi e villaggi turistici,560431,2799337,4.99,False
+2022,Liguria,ITC3,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),695196,2206799,3.17,False
+2022,Liguria,ITC3,FARMHOUSES,Agriturismi,104649,420487,4.02,False
+2022,Liguria,ITC3,HOTELLIKE,Esercizi alberghieri,3253573,9161160,2.82,False
+2022,Liguria,ITC3,OTHER,Esercizi extra-alberghieri,1620826,6308545,3.89,False
+2022,Liguria,ITC3,OTHERACC,Altri esercizi ricettivi,146882,613159,4.17,False
+2023,Liguria,ITC3,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,479335,1389062,2.9,False
+2023,Liguria,ITC3,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,1681908,5057801,3.01,False
+2023,Liguria,ITC3,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",1296938,3000496,2.31,False
+2023,Liguria,ITC3,ALL,Totale esercizi ricettivi,5199868,16084210,3.09,False
+2023,Liguria,ITC3,BNB,Bed and breakfast,110570,256256,2.32,False
+2023,Liguria,ITC3,CAMP_VILL,Campeggi e villaggi turistici,577486,2894048,5.01,False
+2023,Liguria,ITC3,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),772101,2352834,3.05,False
+2023,Liguria,ITC3,FARMHOUSES,Agriturismi,110729,422452,3.82,False
+2023,Liguria,ITC3,HOTELLIKE,Esercizi alberghieri,3458181,9447359,2.73,False
+2023,Liguria,ITC3,OTHER,Esercizi extra-alberghieri,1741687,6636851,3.81,False
+2023,Liguria,ITC3,OTHERACC,Altri esercizi ricettivi,170801,711261,4.16,False
+2024,Liguria,ITC3,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,442823,1281529,2.89,False
+2024,Liguria,ITC3,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,1681669,4986520,2.97,False
+2024,Liguria,ITC3,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",1293671,3102892,2.4,False
+2024,Liguria,ITC3,ALL,Totale esercizi ricettivi,5182104,16128866,3.11,False
+2024,Liguria,ITC3,BNB,Bed and breakfast,98750,226525,2.29,False
+2024,Liguria,ITC3,CAMP_VILL,Campeggi e villaggi turistici,571382,2969200,5.2,False
+2024,Liguria,ITC3,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),815900,2442958,2.99,False
+2024,Liguria,ITC3,FARMHOUSES,Agriturismi,106431,401277,3.77,False
+2024,Liguria,ITC3,HOTELLIKE,Esercizi alberghieri,3418163,9370941,2.74,False
+2024,Liguria,ITC3,OTHER,Esercizi extra-alberghieri,1763941,6757925,3.83,False
+2024,Liguria,ITC3,OTHERACC,Altri esercizi ricettivi,171478,717965,4.19,False
+2025,Liguria,ITC3,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,441153,1269249,2.88,False
+2025,Liguria,ITC3,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,1690859,4926106,2.91,False
+2025,Liguria,ITC3,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",1340605,3090444,2.31,False
+2025,Liguria,ITC3,ALL,Totale esercizi ricettivi,5269506,15972514,3.03,True
+2025,Liguria,ITC3,BNB,Bed and breakfast,91724,204755,2.23,False
+2025,Liguria,ITC3,CAMP_VILL,Campeggi e villaggi turistici,564768,2846548,5.04,False
+2025,Liguria,ITC3,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),873563,2565841,2.94,True
+2025,Liguria,ITC3,FARMHOUSES,Agriturismi,105209,392589,3.73,False
+2025,Liguria,ITC3,HOTELLIKE,Esercizi alberghieri,3472617,9285799,2.67,False
+2025,Liguria,ITC3,OTHER,Esercizi extra-alberghieri,1796889,6686715,3.72,True
+2025,Liguria,ITC3,OTHERACC,Altri esercizi ricettivi,161625,676982,4.19,False
+2019,Genova,ITC33,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,179976,427862,2.38,False
+2019,Genova,ITC33,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,491964,1083676,2.2,False
+2019,Genova,ITC33,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",680636,1447887,2.13,False
+2019,Genova,ITC33,ALL,Totale esercizi ricettivi,1674261,4003356,2.39,False
+2019,Genova,ITC33,BNB,Bed and breakfast,45203,96540,2.14,False
+2019,Genova,ITC33,CAMP_VILL,Campeggi e villaggi turistici,87606,385427,4.4,False
+2019,Genova,ITC33,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),119000,311698,2.62,False
+2019,Genova,ITC33,FARMHOUSES,Agriturismi,16806,51513,3.07,False
+2019,Genova,ITC33,HOTELLIKE,Esercizi alberghieri,1352576,2959425,2.19,False
+2019,Genova,ITC33,OTHER,Esercizi extra-alberghieri,321685,1043931,3.25,False
+2019,Genova,ITC33,OTHERACC,Altri esercizi ricettivi,53070,198753,3.75,False
+2020,Genova,ITC33,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,87843,262601,2.99,False
+2020,Genova,ITC33,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,220946,569842,2.58,False
+2020,Genova,ITC33,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",283990,656626,2.31,False
+2020,Genova,ITC33,ALL,Totale esercizi ricettivi,753857,2190742,2.91,False
+2020,Genova,ITC33,BNB,Bed and breakfast,18384,46807,2.55,False
+2020,Genova,ITC33,CAMP_VILL,Campeggi e villaggi turistici,61007,328724,5.39,False
+2020,Genova,ITC33,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),58035,187935,3.24,False
+2020,Genova,ITC33,FARMHOUSES,Agriturismi,9383,33707,3.59,False
+2020,Genova,ITC33,HOTELLIKE,Esercizi alberghieri,592779,1489069,2.51,False
+2020,Genova,ITC33,OTHER,Esercizi extra-alberghieri,161078,701673,4.36,False
+2020,Genova,ITC33,OTHERACC,Altri esercizi ricettivi,14269,104500,7.32,False
+2021,Genova,ITC33,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,126133,324621,2.57,False
+2021,Genova,ITC33,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,338105,806016,2.38,False
+2021,Genova,ITC33,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",482682,1073985,2.23,False
+2021,Genova,ITC33,ALL,Totale esercizi ricettivi,1218504,3195510,2.62,False
+2021,Genova,ITC33,BNB,Bed and breakfast,29099,65546,2.25,False
+2021,Genova,ITC33,CAMP_VILL,Campeggi e villaggi turistici,97947,449840,4.59,False
+2021,Genova,ITC33,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),103231,299483,2.9,False
+2021,Genova,ITC33,FARMHOUSES,Agriturismi,13059,44898,3.44,False
+2021,Genova,ITC33,HOTELLIKE,Esercizi alberghieri,946920,2204622,2.33,False
+2021,Genova,ITC33,OTHER,Esercizi extra-alberghieri,271584,990888,3.65,False
+2021,Genova,ITC33,OTHERACC,Altri esercizi ricettivi,28248,131121,4.64,False
+2022,Genova,ITC33,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,174990,422083,2.41,False
+2022,Genova,ITC33,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,435554,1007066,2.31,False
+2022,Genova,ITC33,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",705861,1559805,2.21,False
+2022,Genova,ITC33,ALL,Totale esercizi ricettivi,1713992,4293621,2.51,False
+2022,Genova,ITC33,BNB,Bed and breakfast,41923,92439,2.2,False
+2022,Genova,ITC33,CAMP_VILL,Campeggi e villaggi turistici,119506,490930,4.11,False
+2022,Genova,ITC33,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),159337,439678,2.76,False
+2022,Genova,ITC33,FARMHOUSES,Agriturismi,16624,54273,3.26,False
+2022,Genova,ITC33,HOTELLIKE,Esercizi alberghieri,1316405,2988954,2.27,False
+2022,Genova,ITC33,OTHER,Esercizi extra-alberghieri,397587,1304667,3.28,False
+2022,Genova,ITC33,OTHERACC,Altri esercizi ricettivi,60197,227347,3.78,False
+2023,Genova,ITC33,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,177889,427670,2.4,False
+2023,Genova,ITC33,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,482011,1072286,2.22,False
+2023,Genova,ITC33,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",757367,1652483,2.18,False
+2023,Genova,ITC33,ALL,Totale esercizi ricettivi,1858291,4574178,2.46,False
+2023,Genova,ITC33,BNB,Bed and breakfast,43226,95074,2.2,False
+2023,Genova,ITC33,CAMP_VILL,Campeggi e villaggi turistici,123082,505226,4.1,False
+2023,Genova,ITC33,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),188837,492210,2.61,False
+2023,Genova,ITC33,FARMHOUSES,Agriturismi,16213,53418,3.29,False
+2023,Genova,ITC33,HOTELLIKE,Esercizi alberghieri,1417267,3152439,2.22,False
+2023,Genova,ITC33,OTHER,Esercizi extra-alberghieri,441024,1421739,3.22,False
+2023,Genova,ITC33,OTHERACC,Altri esercizi ricettivi,69666,275811,3.96,False
+2024,Genova,ITC33,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,154673,383463,2.48,False
+2024,Genova,ITC33,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,468179,1024629,2.19,False
+2024,Genova,ITC33,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",750499,1760875,2.35,False
+2024,Genova,ITC33,ALL,Totale esercizi ricettivi,1832417,4597499,2.51,False
+2024,Genova,ITC33,BNB,Bed and breakfast,38801,82787,2.13,False
+2024,Genova,ITC33,CAMP_VILL,Campeggi e villaggi turistici,118368,483186,4.08,False
+2024,Genova,ITC33,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),218839,541084,2.47,False
+2024,Genova,ITC33,FARMHOUSES,Agriturismi,16541,55210,3.34,False
+2024,Genova,ITC33,HOTELLIKE,Esercizi alberghieri,1373351,3168967,2.31,False
+2024,Genova,ITC33,OTHER,Esercizi extra-alberghieri,459066,1428532,3.11,False
+2024,Genova,ITC33,OTHERACC,Altri esercizi ricettivi,66517,266265,4.0,False
+2025,Genova,ITC33,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,147954,364918,2.47,False
+2025,Genova,ITC33,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,467227,1012874,2.17,False
+2025,Genova,ITC33,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",787635,1711503,2.17,False
+2025,Genova,ITC33,ALL,Totale esercizi ricettivi,1883943,4589690,2.44,True
+2025,Genova,ITC33,BNB,Bed and breakfast,37955,79374,2.09,False
+2025,Genova,ITC33,CAMP_VILL,Campeggi e villaggi turistici,113293,476458,4.21,False
+2025,Genova,ITC33,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),248292,631098,2.54,True
+2025,Genova,ITC33,FARMHOUSES,Agriturismi,16644,54411,3.27,False
+2025,Genova,ITC33,HOTELLIKE,Esercizi alberghieri,1402816,3089295,2.2,False
+2025,Genova,ITC33,OTHER,Esercizi extra-alberghieri,481127,1500395,3.12,True
+2025,Genova,ITC33,OTHERACC,Altri esercizi ricettivi,64943,259054,3.99,False
+2019,Imperia,ITC31,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,64568,194998,3.02,False
+2019,Imperia,ITC31,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,409629,1261164,3.08,False
+2019,Imperia,ITC31,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",182410,484896,2.66,False
+2019,Imperia,ITC31,ALL,Totale esercizi ricettivi,899032,3177245,3.53,False
+2019,Imperia,ITC31,BNB,Bed and breakfast,16145,35376,2.19,False
+2019,Imperia,ITC31,CAMP_VILL,Campeggi e villaggi turistici,103171,617841,5.99,False
+2019,Imperia,ITC31,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),76578,354359,4.63,False
+2019,Imperia,ITC31,FARMHOUSES,Agriturismi,21658,103633,4.78,False
+2019,Imperia,ITC31,HOTELLIKE,Esercizi alberghieri,656607,1941058,2.96,False
+2019,Imperia,ITC31,OTHER,Esercizi extra-alberghieri,242425,1236187,5.1,False
+2019,Imperia,ITC31,OTHERACC,Altri esercizi ricettivi,24873,124978,5.02,False
+2020,Imperia,ITC31,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,38051,117084,3.08,False
+2020,Imperia,ITC31,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,196472,620965,3.16,False
+2020,Imperia,ITC31,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",82676,229973,2.78,False
+2020,Imperia,ITC31,ALL,Totale esercizi ricettivi,454605,1787729,3.93,False
+2020,Imperia,ITC31,BNB,Bed and breakfast,7897,19647,2.49,False
+2020,Imperia,ITC31,CAMP_VILL,Campeggi e villaggi turistici,61049,422536,6.92,False
+2020,Imperia,ITC31,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),42117,235834,5.6,False
+2020,Imperia,ITC31,FARMHOUSES,Agriturismi,12835,71320,5.56,False
+2020,Imperia,ITC31,HOTELLIKE,Esercizi alberghieri,317199,968022,3.05,False
+2020,Imperia,ITC31,OTHER,Esercizi extra-alberghieri,137406,819707,5.97,False
+2020,Imperia,ITC31,OTHERACC,Altri esercizi ricettivi,13508,70370,5.21,False
+2021,Imperia,ITC31,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,50551,146681,2.9,False
+2021,Imperia,ITC31,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,255639,806329,3.15,False
+2021,Imperia,ITC31,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",110416,314833,2.85,False
+2021,Imperia,ITC31,ALL,Totale esercizi ricettivi,605669,2316571,3.82,False
+2021,Imperia,ITC31,BNB,Bed and breakfast,11073,27568,2.49,False
+2021,Imperia,ITC31,CAMP_VILL,Campeggi e villaggi turistici,88205,545725,6.19,False
+2021,Imperia,ITC31,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),54221,284427,5.25,False
+2021,Imperia,ITC31,FARMHOUSES,Agriturismi,20561,108123,5.26,False
+2021,Imperia,ITC31,HOTELLIKE,Esercizi alberghieri,416606,1267843,3.04,False
+2021,Imperia,ITC31,OTHER,Esercizi extra-alberghieri,189063,1048728,5.55,False
+2021,Imperia,ITC31,OTHERACC,Altri esercizi ricettivi,15003,82885,5.52,False
+2022,Imperia,ITC31,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,72012,201033,2.79,False
+2022,Imperia,ITC31,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,366962,1086033,2.96,False
+2022,Imperia,ITC31,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",173014,478472,2.77,False
+2022,Imperia,ITC31,ALL,Totale esercizi ricettivi,888975,3175866,3.57,False
+2022,Imperia,ITC31,BNB,Bed and breakfast,16515,40168,2.43,False
+2022,Imperia,ITC31,CAMP_VILL,Campeggi e villaggi turistici,124090,733221,5.91,False
+2022,Imperia,ITC31,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),81001,377761,4.66,False
+2022,Imperia,ITC31,FARMHOUSES,Agriturismi,30850,150127,4.87,False
+2022,Imperia,ITC31,HOTELLIKE,Esercizi alberghieri,611988,1765538,2.88,False
+2022,Imperia,ITC31,OTHER,Esercizi extra-alberghieri,276987,1410328,5.09,False
+2022,Imperia,ITC31,OTHERACC,Altri esercizi ricettivi,24531,109051,4.45,False
+2023,Imperia,ITC31,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,68214,191429,2.81,False
+2023,Imperia,ITC31,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,404171,1173711,2.9,False
+2023,Imperia,ITC31,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",181288,488965,2.7,False
+2023,Imperia,ITC31,ALL,Totale esercizi ricettivi,935499,3316134,3.54,False
+2023,Imperia,ITC31,BNB,Bed and breakfast,14551,35124,2.41,False
+2023,Imperia,ITC31,CAMP_VILL,Campeggi e villaggi turistici,123050,763307,6.2,False
+2023,Imperia,ITC31,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),90092,405798,4.5,False
+2023,Imperia,ITC31,FARMHOUSES,Agriturismi,29613,141725,4.79,False
+2023,Imperia,ITC31,HOTELLIKE,Esercizi alberghieri,653673,1854105,2.84,False
+2023,Imperia,ITC31,OTHER,Esercizi extra-alberghieri,281826,1462029,5.19,False
+2023,Imperia,ITC31,OTHERACC,Altri esercizi ricettivi,24520,116075,4.73,False
+2024,Imperia,ITC31,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,60668,173577,2.86,False
+2024,Imperia,ITC31,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,417401,1191886,2.86,False
+2024,Imperia,ITC31,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",180468,488945,2.71,False
+2024,Imperia,ITC31,ALL,Totale esercizi ricettivi,946314,3385372,3.58,False
+2024,Imperia,ITC31,BNB,Bed and breakfast,12918,31263,2.42,False
+2024,Imperia,ITC31,CAMP_VILL,Campeggi e villaggi turistici,123228,820460,6.66,False
+2024,Imperia,ITC31,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),95973,427748,4.46,False
+2024,Imperia,ITC31,FARMHOUSES,Agriturismi,29936,135001,4.51,False
+2024,Imperia,ITC31,HOTELLIKE,Esercizi alberghieri,658537,1854408,2.82,False
+2024,Imperia,ITC31,OTHER,Esercizi extra-alberghieri,287777,1530964,5.32,False
+2024,Imperia,ITC31,OTHERACC,Altri esercizi ricettivi,25722,116492,4.53,False
+2025,Imperia,ITC31,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,66894,181428,2.71,False
+2025,Imperia,ITC31,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,425607,1185425,2.79,False
+2025,Imperia,ITC31,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",192578,517014,2.68,False
+2025,Imperia,ITC31,ALL,Totale esercizi ricettivi,981653,3247302,3.31,True
+2025,Imperia,ITC31,BNB,Bed and breakfast,11060,26089,2.36,False
+2025,Imperia,ITC31,CAMP_VILL,Campeggi e villaggi turistici,130554,690842,5.29,False
+2025,Imperia,ITC31,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),106246,420558,3.96,True
+2025,Imperia,ITC31,FARMHOUSES,Agriturismi,28899,131373,4.55,False
+2025,Imperia,ITC31,HOTELLIKE,Esercizi alberghieri,685079,1883867,2.75,False
+2025,Imperia,ITC31,OTHER,Esercizi extra-alberghieri,296574,1363435,4.6,True
+2025,Imperia,ITC31,OTHERACC,Altri esercizi ricettivi,19815,94573,4.77,False
+2019,Savona,ITC32,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,162869,589161,3.62,False
+2019,Savona,ITC32,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,538741,2371098,4.4,False
+2019,Savona,ITC32,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",214618,575910,2.68,False
+2019,Savona,ITC32,ALL,Totale esercizi ricettivi,1282501,5352239,4.17,False
+2019,Savona,ITC32,BNB,Bed and breakfast,32394,75155,2.32,False
+2019,Savona,ITC32,CAMP_VILL,Campeggi e villaggi turistici,172906,949200,5.49,False
+2019,Savona,ITC32,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),88921,431096,4.85,False
+2019,Savona,ITC32,FARMHOUSES,Agriturismi,21640,87245,4.03,False
+2019,Savona,ITC32,HOTELLIKE,Esercizi alberghieri,916228,3536169,3.86,False
+2019,Savona,ITC32,OTHER,Esercizi extra-alberghieri,366273,1816070,4.96,False
+2019,Savona,ITC32,OTHERACC,Altri esercizi ricettivi,50412,273374,5.42,False
+2020,Savona,ITC32,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,99734,366204,3.67,False
+2020,Savona,ITC32,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,304555,1300453,4.27,False
+2020,Savona,ITC32,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",116006,316080,2.72,False
+2020,Savona,ITC32,ALL,Totale esercizi ricettivi,740658,3215870,4.34,False
+2020,Savona,ITC32,BNB,Bed and breakfast,17329,43180,2.49,False
+2020,Savona,ITC32,CAMP_VILL,Campeggi e villaggi turistici,113975,698521,6.13,False
+2020,Savona,ITC32,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),57030,311761,5.47,False
+2020,Savona,ITC32,FARMHOUSES,Agriturismi,14226,67162,4.72,False
+2020,Savona,ITC32,HOTELLIKE,Esercizi alberghieri,520295,1982737,3.81,False
+2020,Savona,ITC32,OTHER,Esercizi extra-alberghieri,220363,1233133,5.6,False
+2020,Savona,ITC32,OTHERACC,Altri esercizi ricettivi,17803,112509,6.32,False
+2021,Savona,ITC32,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,124061,449396,3.62,False
+2021,Savona,ITC32,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,396827,1679386,4.23,False
+2021,Savona,ITC32,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",155492,429807,2.76,False
+2021,Savona,ITC32,ALL,Totale esercizi ricettivi,993353,4205754,4.23,False
+2021,Savona,ITC32,BNB,Bed and breakfast,24409,62064,2.54,False
+2021,Savona,ITC32,CAMP_VILL,Campeggi e villaggi turistici,168577,945218,5.61,False
+2021,Savona,ITC32,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),78539,396215,5.04,False
+2021,Savona,ITC32,FARMHOUSES,Agriturismi,20223,95395,4.72,False
+2021,Savona,ITC32,HOTELLIKE,Esercizi alberghieri,676380,2558589,3.78,False
+2021,Savona,ITC32,OTHER,Esercizi extra-alberghieri,316973,1647165,5.2,False
+2021,Savona,ITC32,OTHERACC,Altri esercizi ricettivi,25225,148273,5.88,False
+2022,Savona,ITC32,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,156361,557158,3.56,False
+2022,Savona,ITC32,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,508370,2072329,4.08,False
+2022,Savona,ITC32,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",208792,573516,2.75,False
+2022,Savona,ITC32,ALL,Totale esercizi ricettivi,1284984,5175361,4.03,False
+2022,Savona,ITC32,BNB,Bed and breakfast,32283,76355,2.37,False
+2022,Savona,ITC32,CAMP_VILL,Campeggi e villaggi turistici,205346,1088730,5.3,False
+2022,Savona,ITC32,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),103594,474534,4.58,False
+2022,Savona,ITC32,FARMHOUSES,Agriturismi,29197,120268,4.12,False
+2022,Savona,ITC32,HOTELLIKE,Esercizi alberghieri,873523,3203003,3.67,False
+2022,Savona,ITC32,OTHER,Esercizi extra-alberghieri,411461,1972358,4.79,False
+2022,Savona,ITC32,OTHERACC,Altri esercizi ricettivi,41041,212471,5.18,False
+2023,Savona,ITC32,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,159857,579089,3.62,False
+2023,Savona,ITC32,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,506174,2047506,4.05,False
+2023,Savona,ITC32,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",235780,585964,2.49,False
+2023,Savona,ITC32,ALL,Totale esercizi ricettivi,1328715,5204633,3.92,False
+2023,Savona,ITC32,BNB,Bed and breakfast,31294,70558,2.25,False
+2023,Savona,ITC32,CAMP_VILL,Campeggi e villaggi turistici,208376,1097340,5.27,False
+2023,Savona,ITC32,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),107894,463068,4.29,False
+2023,Savona,ITC32,FARMHOUSES,Agriturismi,30754,114614,3.73,False
+2023,Savona,ITC32,HOTELLIKE,Esercizi alberghieri,901811,3212559,3.56,False
+2023,Savona,ITC32,OTHER,Esercizi extra-alberghieri,426904,1992074,4.67,False
+2023,Savona,ITC32,OTHERACC,Altri esercizi ricettivi,48586,246494,5.07,False
+2024,Savona,ITC32,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,155759,543736,3.49,False
+2024,Savona,ITC32,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,501215,2017327,4.02,False
+2024,Savona,ITC32,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",236062,578034,2.45,False
+2024,Savona,ITC32,ALL,Totale esercizi ricettivi,1326494,5190438,3.91,False
+2024,Savona,ITC32,BNB,Bed and breakfast,30035,65414,2.18,False
+2024,Savona,ITC32,CAMP_VILL,Campeggi e villaggi turistici,210139,1143879,5.44,False
+2024,Savona,ITC32,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),111421,467892,4.2,False
+2024,Savona,ITC32,FARMHOUSES,Agriturismi,29459,110617,3.75,False
+2024,Savona,ITC32,HOTELLIKE,Esercizi alberghieri,893036,3139097,3.52,False
+2024,Savona,ITC32,OTHER,Esercizi extra-alberghieri,433458,2051341,4.73,False
+2024,Savona,ITC32,OTHERACC,Altri esercizi ricettivi,52404,263539,5.03,False
+2025,Savona,ITC32,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,155950,548560,3.52,False
+2025,Savona,ITC32,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,504851,1988214,3.94,False
+2025,Savona,ITC32,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",232203,592928,2.55,False
+2025,Savona,ITC32,ALL,Totale esercizi ricettivi,1331785,5220588,3.92,True
+2025,Savona,ITC32,BNB,Bed and breakfast,28123,60127,2.14,False
+2025,Savona,ITC32,CAMP_VILL,Campeggi e villaggi turistici,207034,1168530,5.64,False
+2025,Savona,ITC32,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),120496,493387,4.09,True
+2025,Savona,ITC32,FARMHOUSES,Agriturismi,30564,111941,3.66,False
+2025,Savona,ITC32,HOTELLIKE,Esercizi alberghieri,893004,3129702,3.5,False
+2025,Savona,ITC32,OTHER,Esercizi extra-alberghieri,438781,2090886,4.77,True
+2025,Savona,ITC32,OTHERACC,Altri esercizi ricettivi,52564,256901,4.89,False
+2019,La Spezia,ITC34,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,68725,182983,2.66,False
+2019,La Spezia,ITC34,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,277061,720917,2.6,False
+2019,La Spezia,ITC34,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",105252,238396,2.27,False
+2019,La Spezia,ITC34,ALL,Totale esercizi ricettivi,942026,2542048,2.7,False
+2019,La Spezia,ITC34,BNB,Bed and breakfast,27441,64792,2.36,False
+2019,La Spezia,ITC34,CAMP_VILL,Campeggi e villaggi turistici,90543,417776,4.61,False
+2019,La Spezia,ITC34,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),318180,762289,2.4,False
+2019,La Spezia,ITC34,FARMHOUSES,Agriturismi,24162,77577,3.21,False
+2019,La Spezia,ITC34,HOTELLIKE,Esercizi alberghieri,451038,1142296,2.53,False
+2019,La Spezia,ITC34,OTHER,Esercizi extra-alberghieri,490988,1399752,2.85,False
+2019,La Spezia,ITC34,OTHERACC,Altri esercizi ricettivi,30662,77318,2.52,False
+2020,La Spezia,ITC34,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,34568,98712,2.86,False
+2020,La Spezia,ITC34,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,139217,405038,2.91,False
+2020,La Spezia,ITC34,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",37568,102275,2.72,False
+2020,La Spezia,ITC34,ALL,Totale esercizi ricettivi,443324,1374082,3.1,False
+2020,La Spezia,ITC34,BNB,Bed and breakfast,10904,28435,2.61,False
+2020,La Spezia,ITC34,CAMP_VILL,Campeggi e villaggi turistici,62371,281406,4.51,False
+2020,La Spezia,ITC34,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),138667,389908,2.81,False
+2020,La Spezia,ITC34,FARMHOUSES,Agriturismi,11767,43112,3.66,False
+2020,La Spezia,ITC34,HOTELLIKE,Esercizi alberghieri,211353,606025,2.87,False
+2020,La Spezia,ITC34,OTHER,Esercizi extra-alberghieri,231971,768057,3.31,False
+2020,La Spezia,ITC34,OTHERACC,Altri esercizi ricettivi,8262,25196,3.05,False
+2021,La Spezia,ITC34,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,51066,136961,2.68,False
+2021,La Spezia,ITC34,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,184784,571982,3.1,False
+2021,La Spezia,ITC34,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",78489,197701,2.52,False
+2021,La Spezia,ITC34,ALL,Totale esercizi ricettivi,676807,2073633,3.06,False
+2021,La Spezia,ITC34,BNB,Bed and breakfast,17625,45312,2.57,False
+2021,La Spezia,ITC34,CAMP_VILL,Campeggi e villaggi turistici,90727,403504,4.45,False
+2021,La Spezia,ITC34,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),224787,618136,2.75,False
+2021,La Spezia,ITC34,FARMHOUSES,Agriturismi,17991,63139,3.51,False
+2021,La Spezia,ITC34,HOTELLIKE,Esercizi alberghieri,314339,906644,2.88,False
+2021,La Spezia,ITC34,OTHER,Esercizi extra-alberghieri,362468,1166989,3.22,False
+2021,La Spezia,ITC34,OTHERACC,Altri esercizi ricettivi,11338,36898,3.25,False
+2022,La Spezia,ITC34,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,70087,180798,2.58,False
+2022,La Spezia,ITC34,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,263472,747030,2.84,False
+2022,La Spezia,ITC34,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",118098,275837,2.34,False
+2022,La Spezia,ITC34,ALL,Totale esercizi ricettivi,986448,2824857,2.86,False
+2022,La Spezia,ITC34,BNB,Bed and breakfast,22947,59801,2.61,False
+2022,La Spezia,ITC34,CAMP_VILL,Campeggi e villaggi turistici,111489,486456,4.36,False
+2022,La Spezia,ITC34,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),351264,914826,2.6,False
+2022,La Spezia,ITC34,FARMHOUSES,Agriturismi,27978,95819,3.42,False
+2022,La Spezia,ITC34,HOTELLIKE,Esercizi alberghieri,451657,1203665,2.66,False
+2022,La Spezia,ITC34,OTHER,Esercizi extra-alberghieri,534791,1621192,3.03,False
+2022,La Spezia,ITC34,OTHERACC,Altri esercizi ricettivi,21113,64290,3.05,False
+2023,La Spezia,ITC34,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,73375,190874,2.6,False
+2023,La Spezia,ITC34,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,289552,764298,2.64,False
+2023,La Spezia,ITC34,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",122503,273084,2.23,False
+2023,La Spezia,ITC34,ALL,Totale esercizi ricettivi,1077363,2989265,2.77,False
+2023,La Spezia,ITC34,BNB,Bed and breakfast,21499,55500,2.58,False
+2023,La Spezia,ITC34,CAMP_VILL,Campeggi e villaggi turistici,122978,528175,4.29,False
+2023,La Spezia,ITC34,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),385278,991758,2.57,False
+2023,La Spezia,ITC34,FARMHOUSES,Agriturismi,34149,112695,3.3,False
+2023,La Spezia,ITC34,HOTELLIKE,Esercizi alberghieri,485430,1228256,2.53,False
+2023,La Spezia,ITC34,OTHER,Esercizi extra-alberghieri,591933,1761009,2.98,False
+2023,La Spezia,ITC34,OTHERACC,Altri esercizi ricettivi,28029,72881,2.6,False
+2024,La Spezia,ITC34,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,71723,180753,2.52,False
+2024,La Spezia,ITC34,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,294874,752678,2.55,False
+2024,La Spezia,ITC34,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",126642,275038,2.17,False
+2024,La Spezia,ITC34,ALL,Totale esercizi ricettivi,1076879,2955557,2.74,False
+2024,La Spezia,ITC34,BNB,Bed and breakfast,16996,47061,2.77,False
+2024,La Spezia,ITC34,CAMP_VILL,Campeggi e villaggi turistici,119647,521675,4.36,False
+2024,La Spezia,ITC34,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),389667,1006234,2.58,False
+2024,La Spezia,ITC34,FARMHOUSES,Agriturismi,30495,100449,3.29,False
+2024,La Spezia,ITC34,HOTELLIKE,Esercizi alberghieri,493239,1208469,2.45,False
+2024,La Spezia,ITC34,OTHER,Esercizi extra-alberghieri,583640,1747088,2.99,False
+2024,La Spezia,ITC34,OTHERACC,Altri esercizi ricettivi,26835,71669,2.67,False
+2025,La Spezia,ITC34,1_2_STARSHOTELS,Alberghi di 2 stelle e alberghi di 1 stella,70355,174343,2.48,False
+2025,La Spezia,ITC34,3_STARSHOTELS_RES,Alberghi di 3 stelle e residenze turistico alberghiere,293174,739593,2.52,False
+2025,La Spezia,ITC34,4_5_5P_STARSHOTELS,"Alberghi di 5 stelle, 5 stelle lusso e 4 stelle",128189,268999,2.1,False
+2025,La Spezia,ITC34,ALL,Totale esercizi ricettivi,1072125,2914934,2.72,True
+2025,La Spezia,ITC34,BNB,Bed and breakfast,14586,39165,2.69,False
+2025,La Spezia,ITC34,CAMP_VILL,Campeggi e villaggi turistici,113887,510718,4.48,False
+2025,La Spezia,ITC34,DWELLINGS,Alloggi in affitto (dal 2025 comprende gli alloggi gestiti in forma imprenditoriale e non imprenditoriale),398529,1020798,2.56,True
+2025,La Spezia,ITC34,FARMHOUSES,Agriturismi,29102,94864,3.26,False
+2025,La Spezia,ITC34,HOTELLIKE,Esercizi alberghieri,491718,1182935,2.41,False
+2025,La Spezia,ITC34,OTHER,Esercizi extra-alberghieri,580407,1731999,2.98,True
+2025,La Spezia,ITC34,OTHERACC,Altri esercizi ricettivi,24303,66454,2.73,False

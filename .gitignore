@@ -1,0 +1,32 @@
+
+# Ambiente virtuale Python
+.venv/
+venv/
+
+# File temporanei Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurazioni locali PyCharm
+.idea/
+
+# File riservati
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Dati originali non necessari alla dashboard online
+data/raw/
+
+# File temporanei
+*.log
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+
+# Versioni di backup della dashboard
+dashboard/app_backup.py
+dashboard/app_stabile.py
+dashboard/modules/demografia_stabile.py

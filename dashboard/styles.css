@@ -1,0 +1,574 @@
+
+.block-container {
+    max-width: 1450px;
+    padding-top: 9.5rem;
+    padding-bottom: 3rem;
+}
+
+
+.lem-header {
+    background: #142A3B;
+    border-radius: 16px;
+    padding: 29px 36px;
+    margin-bottom: 18px;
+}
+
+.lem-brand {
+    color: #8BD0CF;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 13px;
+}
+
+.lem-header h1 {
+    color: white;
+    font-family: Georgia, serif;
+    font-size: clamp(30px, 3.5vw, 42px);
+    font-weight: 400;
+    letter-spacing: -1px;
+    margin: 0 0 8px;
+    line-height: 1.2;
+}
+
+.lem-header p {
+    color: #C4D4DD;
+    font-size: 14px;
+    margin: 0;
+}
+
+.lem-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 15px;
+    margin: 20px 0 14px;
+}
+
+.lem-section h2 {
+    color: #142A3B;
+    font-size: 21px;
+    letter-spacing: -0.5px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.lem-section span {
+    color: #7A8B98;
+    font-size: 12px;
+}
+
+.lem-kpis {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 17px;
+}
+
+.lem-kpi {
+    background: white;
+    border: 1px solid #E1E8ED;
+    border-radius: 13px;
+    padding: 23px;
+}
+
+.lem-kpi-label {
+    font-size: 13px;
+    font-weight: 500;
+    color: #667D8E;
+}
+
+.lem-kpi-value {
+    font-size: clamp(27px, 2.8vw, 37px);
+    letter-spacing: -1px;
+    font-weight: 750;
+    color: #142A3B;
+    margin: 13px 0;
+}
+
+.lem-kpi-delta {
+    font-size: 12px;
+    color: #718495;
+}
+
+
+/* Colori dinamici delle variazioni KPI */
+
+.lem-kpi-delta strong {
+    color: #526779;
+}
+
+.lem-kpis .lem-kpi-delta strong.lem-delta-negative {
+    color: #B4534A !important;
+}
+
+.lem-kpis .lem-kpi-delta strong.lem-delta-positive {
+    color: #16758A !important;
+}
+
+.lem-kpis .lem-kpi-delta strong.lem-delta-neutral {
+    color: #526779 !important;
+}
+
+
+.lem-insight {
+    background: #EAF1F3;
+    border-left: 4px solid #16758A;
+    border-radius: 8px;
+    padding: 24px 28px;
+    margin-top: 22px;
+}
+
+.lem-insight h3 {
+    color: #142A3B;
+    font-size: 19px;
+    margin: 0 0 12px;
+}
+
+.lem-insight p {
+    color: #40596A;
+    font-size: 14px;
+    line-height: 1.75;
+    margin: 0;
+}
+
+.lem-footer {
+    margin-top: 30px;
+    padding-top: 15px;
+    border-top: 1px solid #DFE7EB;
+    color: #7A8B98;
+    font-size: 11px;
+}
+
+@media (max-width: 800px) {
+    .lem-kpis {
+        grid-template-columns: 1fr;
+    }
+
+    .lem-header {
+        padding: 25px;
+    }
+
+    .lem-section {
+        display: block;
+    }
+}
+
+
+/* Intestazione dei moduli */
+
+.lem-module-hero {
+    margin: 24px 0 32px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #DCE5EA;
+}
+
+.lem-module-eyebrow {
+    color: #16758A;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.lem-module-hero h1 {
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: -0.7px;
+    line-height: 1.2;
+    color: #142A3B;
+    margin: 0 0 12px 0;
+}
+
+.lem-module-hero p {
+    color: #526779;
+    font-size: 15px;
+    line-height: 1.65;
+    max-width: 800px;
+    margin: 0;
+}
+
+
+
+/* Barra superiore sempre visibile */
+
+.st-key-lem_sticky_header {
+    position: fixed !important;
+    top: 2.75rem;
+    left: 50%;
+    transform: translateX(-50%);
+
+    width: min(1450px, calc(100% - 3rem));
+    box-sizing: border-box;
+
+    z-index: 1000;
+    background-color: #F5F7FA;
+
+    padding: 10px 16px 8px;
+    border-bottom: 1px solid #E1E8ED;
+    border-radius: 0 0 10px 10px;
+}
+
+
+/* ==========================================================
+   LIGURIA ECONOMIC MONITOR
+   NUOVA IDENTITÀ GRAFICA - FASE 1
+   ========================================================== */
+
+/* Sfondo generale */
+
+.stApp {
+    background-color: #EFF3F6 !important;
+    color: #20394B;
+}
+
+/* Barra superiore fissa */
+
+.st-key-lem_sticky_header {
+    background-color: #DDE9ED !important;
+    border: 1px solid #CADAE1;
+    border-radius: 0 0 14px 14px;
+    box-shadow: 0 4px 18px rgba(32, 57, 75, 0.08);
+}
+
+/* Nome dell'osservatorio */
+
+.st-key-lem_sticky_header h3 {
+    color: #20394B !important;
+    font-weight: 750;
+    letter-spacing: -0.4px;
+}
+
+/* Sottotitolo della barra */
+
+.st-key-lem_sticky_header [data-testid="stCaptionContainer"] {
+    color: #557080 !important;
+}
+
+/* Testi delle etichette */
+
+.st-key-lem_sticky_header label {
+    color: #20394B !important;
+}
+
+/* Intestazioni blu dei moduli */
+
+.lem-header {
+    background: #20394B;
+    box-shadow: 0 8px 24px rgba(32, 57, 75, 0.09);
+}
+
+/* Schede KPI */
+
+.lem-kpi {
+    background: #FFFFFF;
+    border: 1px solid #DAE4E9;
+    box-shadow: 0 3px 12px rgba(32, 57, 75, 0.035);
+}
+
+/* Riquadro di interpretazione */
+
+.lem-insight {
+    background: #E5EEF0;
+    border-left-color: #147C83;
+}
+
+/* Footer */
+
+.lem-footer {
+    border-top-color: #D0DDE4;
+}
+
+
+/* ==========================================================
+   BARRA SUPERIORE - DIMENSIONI DEFINITIVE
+   ========================================================== */
+
+.st-key-lem_sticky_header {
+    min-height: 108px;
+    padding: 19px 26px !important;
+    box-sizing: border-box;
+}
+
+/* Titolo del progetto */
+.st-key-lem_sticky_header h3 {
+    font-size: 26px !important;
+    font-weight: 750 !important;
+    letter-spacing: -0.5px;
+}
+
+/* Sottotitolo */
+.st-key-lem_sticky_header [data-testid="stCaptionContainer"] {
+    font-size: 13px !important;
+}
+
+/* Pulsanti della navigazione */
+.st-key-lem_sticky_header [data-testid="stSegmentedControl"] button {
+    font-size: 14px !important;
+    padding: 10px 14px !important;
+}
+
+/* Spazio riservato alla barra fissa */
+.block-container {
+    padding-top: 11.5rem !important;
+}
+
+
+/* ==========================================================
+   LOGO E IDENTITÀ VISIVA - LIGURIA ECONOMIC MONITOR
+   ========================================================== */
+
+.lem-brand-lockup {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    min-height: 70px;
+}
+
+.lem-brand-logo {
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 14px;
+}
+
+.lem-brand-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    min-width: 0;
+}
+
+.lem-brand-name {
+    color: #20394B;
+    font-size: 23px;
+    font-weight: 750;
+    letter-spacing: -0.6px;
+    line-height: 1.15;
+}
+
+.lem-brand-subtitle {
+    color: #557080;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.3;
+}
+
+/* Adattamento per schermi più piccoli */
+
+@media (max-width: 1100px) {
+    .lem-brand-lockup {
+        gap: 10px;
+    }
+
+    .lem-brand-logo {
+        width: 48px;
+        height: 48px;
+    }
+
+    .lem-brand-name {
+        font-size: 18px;
+    }
+
+    .lem-brand-subtitle {
+        font-size: 11px;
+    }
+}
+
+
+/* ==========================================================
+   CREDITI E FIRMA DEL PROGETTO
+   ========================================================== */
+
+.lem-project-credits {
+    margin-top: 48px;
+    padding: 28px 32px;
+    background: #E2EAF0;
+    border: 1px solid #CAD8E0;
+    border-radius: 14px;
+}
+
+.lem-project-credits-title {
+    font-size: 18px;
+    font-weight: 750;
+    color: #20394B;
+    margin-bottom: 3px;
+}
+
+.lem-project-credits-subtitle {
+    font-size: 12px;
+    color: #557080;
+    margin-bottom: 20px;
+}
+
+.lem-project-credits-author {
+    font-size: 14px;
+    color: #20394B;
+    margin-bottom: 10px;
+}
+
+.lem-project-credits-author strong {
+    font-weight: 750;
+}
+
+.lem-project-credits p {
+    font-size: 13px;
+    color: #526779;
+    margin: 0 0 14px;
+    line-height: 1.6;
+}
+
+.lem-project-credits-sources {
+    padding-top: 12px;
+    border-top: 1px solid #CAD8E0;
+    color: #647D8C;
+    font-size: 11px;
+}
+
+
+/* ==========================================================
+   BARRA INFERIORE FISSA
+   ========================================================== */
+
+.st-key-lem_fixed_footer {
+    position: fixed !important;
+    bottom: 0.75rem;
+    left: 50%;
+    transform: translateX(-50%);
+
+    width: min(1450px, calc(100% - 3rem));
+    box-sizing: border-box;
+
+    z-index: 999;
+
+    background-color: #DDE9ED !important;
+    border: 1px solid #CADAE1;
+    border-radius: 12px;
+
+    padding: 13px 25px !important;
+
+    box-shadow: 0 -3px 18px rgba(32, 57, 75, 0.08);
+}
+
+.lem-fixed-footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 28px;
+}
+
+.lem-footer-left {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 0;
+}
+
+.lem-footer-author {
+    color: #20394B;
+    font-size: 12px;
+}
+
+.lem-footer-author strong {
+    font-weight: 750;
+}
+
+.lem-footer-description {
+    color: #557080;
+    font-size: 11px;
+    line-height: 1.4;
+}
+
+.lem-footer-sources {
+    color: #557080;
+    font-size: 11px;
+    line-height: 1.5;
+    max-width: 430px;
+}
+
+/* Lascia spazio per la barra fissa */
+.block-container {
+    padding-bottom: 9rem !important;
+}
+
+/* Schermi più piccoli */
+@media (max-width: 800px) {
+
+    .st-key-lem_fixed_footer {
+        padding: 10px 15px !important;
+    }
+
+    .lem-fixed-footer-content {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 6px;
+    }
+
+    .lem-footer-description,
+    .lem-footer-sources {
+        font-size: 10px;
+    }
+
+    .block-container {
+        padding-bottom: 11rem !important;
+    }
+}
+
+
+/* LinkedIn nella barra inferiore */
+
+.lem-footer-author {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.lem-footer-linkedin {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 19px;
+    height: 19px;
+    color: #0A66C2;
+    text-decoration: none;
+    flex-shrink: 0;
+    transition: opacity 0.2s ease;
+}
+
+.lem-footer-linkedin:hover {
+    opacity: 0.65;
+}
+
+
+
+/* ==========================================================
+   SFONDO DASHBOARD
+   ========================================================== */
+
+.stApp {
+    background: linear-gradient(
+        180deg,
+        #E9F3F6 0%,
+        #F2F7FA 45%,
+        #F9FBFD 100%
+    ) !important;
+    background-attachment: fixed !important;
+}
+
+
+
+/* ==========================================================
+   RIQUADRI DEI GRAFICI - SFONDO BIANCO
+   ========================================================== */
+
+[class*="st-key-lem_chart_"] {
+    background-color: #FFFFFF !important;
+    border-radius: 12px !important;
+}
+
+
+
+
+
